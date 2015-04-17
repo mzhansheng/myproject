@@ -1,2 +1,3 @@
 this is a git test 
 hello git world!
+other one change the file ,and check the git change!
