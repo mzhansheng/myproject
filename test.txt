@@ -1,3 +1,9 @@
 this is a git test 
+<<<<<<< HEAD
 hello git world!
 other one change the file ,and check the git change!
+=======
+  change place 
+hello git worild haha!
+the test change,test if  git know the change! 
+>>>>>>> 5f232a34604297ee416e2e2420af9d9455d33f17
