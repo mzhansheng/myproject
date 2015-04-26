@@ -3,3 +3,4 @@ add a line.
 add confict on master.
 confiict.
 merge
+fix bug 101
